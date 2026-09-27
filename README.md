@@ -8,3 +8,9 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=gunsf0rhands&color=eacf64&label=%28｡-.•%29">
 </p>
+
+<p align="center">
+  <a href="https://open.spotify.com/user/gfigqy1dcmyffyc9h7xffopei">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=gfigqy1dcmyffyc9h7xffopei&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true">
+  </a>
+</p>
