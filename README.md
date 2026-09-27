@@ -11,4 +11,4 @@
 ⋮ ⌗ ┆ponies: overwatch, star wars, the pitt, twenty one pilots
 <img width="1200" height="170" alt="image" src="https://github.com/user-attachments/assets/2f40f191-a86a-4dde-9996-d2b4f60a0d59" />
 
-![](https://komarev.com/ghpvc/?username=gunsf0rhands&label=꒰ᐢ. ̫ .ᐢ꒱)
+![](https://komarev.com/ghpvc/?username=gunsf0rhands&label=^_<+-★)
