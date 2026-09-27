@@ -11,6 +11,12 @@
 
 <p align="center">
   <a href="https://open.spotify.com/track/59Memw7QNp1uoiK3D7Pxdg">
-    <img src="https://img.shields.io/badge/♫%20currently%20playing-Spotify-eacf64?style=for-the-badge&logo=spotify&logoColor=white">
+    <img src="https://i.scdn.co/image/ab67616d0000b273e8d2f6f8f3c8f0c7e7c5b8b7" width="150">
   </a>
+  <br>
+  <b>♫ Air Catcher</b>
+  <br>
+  <sub>Twenty One Pilots</sub>
+  <br>
+  <sub>Twenty One Pilots • 2009</sub>
 </p>
