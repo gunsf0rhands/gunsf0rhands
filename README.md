@@ -1,4 +1,7 @@
-<img width="1200" height="170" alt="image" src="https://github.com/user-attachments/assets/3e3d3460-ed2e-481a-9ff6-64770dc76c37" />
+<img width="1200" height="170" alt="Untitled133_20260927154908" src="https://github.com/user-attachments/assets/d8f8c32d-017f-44e0-a0bc-ccc6b665272f" />
+
+<img width="1920" height="1080" alt="Untitled132_20260927154746" src="https://github.com/user-attachments/assets/ffc9556e-a40e-4c1c-a7ad-95018ee11723" />
+
 
 ⋮ ⌗ ┆fandoms: overwatch, marvel rivals, outlast, yellowjackets, fallout (games & show), arcane, star wars, warframe, x-files, supernatural &&. more
 
