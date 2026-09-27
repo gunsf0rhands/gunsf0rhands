@@ -8,3 +8,21 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=gunsf0rhands&color=eacf64&label=%28｡-.•%29">
 </p>
+
+<p align="center">
+
+<a href="https://open.spotify.com/track/59Memw7QNp1uoiK3D7Pxdg">
+
+<img src="./assets/air-catcher.jpg" width="180" alt="Air Catcher album cover">
+
+</a>
+
+<br>
+
+<code>┌──────────────────────────┐</code><br> <code>│  NOW PLAYING             │</code><br> <code>│                          │</code><br> <code>│      Air Catcher        │</code><br> <code>│    Twenty One Pilots    │</code><br> <code>│                          │</code><br> <code>│  0:00 ━━━━━━━ 4:13      │</code><br> <code>│                          │</code><br> <code>│       ◀  ▮▮  ▶          │</code><br> <code>└──────────────────────────┘</code>
+
+<br>
+
+<sub>♡ click to listen on Spotify ♡</sub>
+
+</p>
