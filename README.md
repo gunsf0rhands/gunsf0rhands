@@ -12,7 +12,8 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=gunsf0rhands&color=eacf64&label=%28｡-.•%29">
 </p>
-<img width="99" height="56" alt="tumblr_28b57cf6318dacac6a493c6adba6e3b1_f61310c9_100" src="https://github.com/user-attachments/assets/ea9ba8ba-5b6a-4b7f-b313-4d5d009406f9" />
+
+<img width="99" height="56" alt="tumblr_764c2a198d61305b45216715239f2f12_f5c3fe9c_100" src="https://github.com/user-attachments/assets/0a1de569-fcb6-4d01-904f-c55f42ebb006" />
 <img width="99" height="55" alt="tumblr_20916fa24f1125b445a81135ed35fe73_b1927497_100 (1)" src="https://github.com/user-attachments/assets/cb7dec66-28fe-4809-8d61-429cbebedb9c" />
 <img width="97" height="57" alt="tumblr_bd32841a27ad5f12fd9c96fe78a75e6a_64e1a70e_100" src="https://github.com/user-attachments/assets/289a26f1-c544-4583-bfd0-72bebe7b2944" />
 <img width="99" height="56" alt="tumblr_cff9a755097d997ef5a43920663460c1_551e1c1e_100" src="https://github.com/user-attachments/assets/af0bbf95-1a04-4c68-8cac-7dcb8983de1b" />
