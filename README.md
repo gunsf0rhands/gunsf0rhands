@@ -5,4 +5,6 @@
 
 <img width="1200" height="170" alt="image" src="https://github.com/user-attachments/assets/2f40f191-a86a-4dde-9996-d2b4f60a0d59" />
 
-![](https://komarev.com/ghpvc/?username=gunsf0rhands&color=eacf64&label=(｡-.•))
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=gunsf0rhands&color=eacf64&label=%28｡-.•%29">
+</p>
