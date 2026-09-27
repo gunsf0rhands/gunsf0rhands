@@ -10,5 +10,5 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=400&size=16&duration=3500&pause=1200&color=EACF64&background=00000000&center=true&vCenter=true&width=700&height=250&lines=I+don't+fall+slow+like+I+used+to;I+fall+straight+down" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=400&size=16&duration=3500&pause=1200&color=EACF64&background=00000000&center=true&vCenter=true&width=700&height=250&lines=I+don't+fall+slow+like+I+used+to;I+fall+straight+down..." />
 </p>
