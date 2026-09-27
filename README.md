@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://open.spotify.com/user/gfigqy1dcmyffyc9h7xffopei">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=gfigqy1dcmyffyc9h7xffopei&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true">
+  <a href="https://open.spotify.com/track/59Memw7QNp1uoiK3D7Pxdg">
+    <img src="https://img.shields.io/badge/♫%20currently%20playing-Spotify-eacf64?style=for-the-badge&logo=spotify&logoColor=white">
   </a>
 </p>
