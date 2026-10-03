@@ -10,7 +10,7 @@
 
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=gunsf0rhands&color=eacf64&label=%28｡-.•%29">
+  <img src="https://komarev.com/ghpvc/?username=gunsf0rhands&color=eacf64&label=%28𑣲⋆｡˚%29">
 </p>
 
 <p align="center">
